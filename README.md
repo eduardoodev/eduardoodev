@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou [Seu Nome], um entusiasta da web apaixonado por criar experiências incríveis online.
+### 👋 Olá! Eu sou o Eduardo, um entusiasta da web apaixonado por criar experiências incríveis online.
 
 💻 Desenvolvimento Front-End:
 🌐 HTML | 🎨 CSS | 🚀 JavaScript
@@ -13,5 +13,4 @@
 🧩 Sou movido pela curiosidade e sempre estou ansioso para aprender e aprimorar minhas habilidades. Se você compartilha do mesmo entusiasmo pelo código limpo e pelas experiências incríveis, vamos nos conectar! 🚀
 
 📫 Como me encontrar:
-📧 [Seu endereço de e-mail]
-💬 [Link para seu perfil em outras redes sociais]
+📧 boltzdev@hotmail.com

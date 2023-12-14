@@ -1,4 +1,4 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!/Hey guys!
 ![version :14.12.2023](https://img.shields.io/badge/version-14.12.2023-informational) &nbsp;
 <!-- ![profile count](https://komarev.com/ghpvc/?username=eduardoodev&color=red)&nbsp;
 [![GitHub eduardoodev](https://img.shields.io/github/followers/eduardoodev?label=follow&style=social)](https://github.com/flavio21)&nbsp;
